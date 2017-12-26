@@ -36,8 +36,7 @@ PHP version: 5.6.31 (Versi 7 Tidak Apa) dan Mysql 10.1.25-MariaDB
 	'compress' => FALSE,
 	'stricton' => FALSE,
 	'failover' => array(),
-	'save_queries' => TRUE
-);
+	'save_queries' => TRUE();
 
 	Yang Lain Tidak Diubah
 
@@ -82,8 +81,7 @@ B. Tutorial Menginstall di Hosting
 	'compress' => FALSE,
 	'stricton' => FALSE,
 	'failover' => array(),
-	'save_queries' => TRUE
-);
+	'save_queries' => TRUE();
 
 	Yang Lain Tidak Diubah
 
